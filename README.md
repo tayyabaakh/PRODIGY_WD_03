@@ -1,7 +1,7 @@
 # Tic Tac Toe Game
 ## Project Overview:
 
-During my internship at Prodigy InfoTech, I developed a Tic Tac Toe game—a fantastic project to dive into JavaScript and strengthen core coding skills. This interactive game features real-time winner detection, alerts for a draw match, and a smooth user interface.
+Tic Tac Toe game—a fantastic project to dive into JavaScript and strengthen core coding skills. This interactive game features real-time winner detection, alerts for a draw match, and a smooth user interface.
 
 ## Key Features:
 
