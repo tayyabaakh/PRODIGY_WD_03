@@ -19,6 +19,6 @@ JavaScript for game logic and interactivity.
 
 ## How to Use
 Clone the repository:
-
+```bash
 git clone https://github.com/tayyabaakh/PRODIGY_WD_03.git
 
